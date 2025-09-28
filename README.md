@@ -1,16 +1,30 @@
-## Hi there 👋
+# Portfolio of Anastasia
 
-<!--
-**Anetta77-bit/Anetta77-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋  
+My name is **A
++
+nastasia**, and I am an aspiring **Full-Stack Developer** currently gaining experience as a **trainee**.  
+I am building my first web projects and expanding my skills in both front-end and back-end development.
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About this repository
+This repository contains my **online portfolio**, showcasing my first web projects.  
+It reflects my learning journey and the practical projects I have developed during my training.
+
+#
+
+## Projects
+- **Site 1** – Short description: [Visit Site](https://link-to-your-first-site.com)  
+- **Site 2** – Short description: [Visit Site](https://link-to-your-second-site.com)
+
+#
+
+## Contact
+- Email: [youremail@example.com](mailto:youremail@example.com)  
+- GitHub: [https://github.com/your-username](https://github.com/your-username)
+
+#
+
+> I am at the beginning of my web development journey, with the goal of becoming a **Full-Stack Developer**.  
+> Always eager to learn, grow, and take on new challenges! 🚀
