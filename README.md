@@ -15,12 +15,13 @@ It reflects my learning journey and the practical projects I have developed duri
 ## Projects
 - **Site 1** – Short description: [Visit Site](https://link-to-your-first-site.com)  
 - **Site 2** – Short description: [Visit Site](https://link-to-your-second-site.com)
+- **Site 2** – Short description: [Visit Site](https://link-to-your-second-site.com)
 
 #
 
 ## Contact
-- Email: [youremail@example.com](mailto:youremail@example.com)  
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Email: [anastasiia.voitenko07@gmail.com](mailto:anastasiia.voitenko07@gmail.com)  
+- GitHub: [https://github.com/Anetta77-bit](https://github.com/Anetta77-bit)
 
 #
 
