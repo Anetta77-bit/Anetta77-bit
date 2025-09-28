@@ -1,9 +1,7 @@
 # Portfolio of Anastasia
 
 Hello! 👋  
-My name is **A
-+
-nastasia**, and I am an aspiring **Full-Stack Developer** currently gaining experience as a **trainee**.  
+My name is **Anastasia**, and I am an aspiring **Full-Stack Developer** currently gaining experience as a **trainee**.  
 I am building my first web projects and expanding my skills in both front-end and back-end development.
 
 #
